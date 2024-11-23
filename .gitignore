@@ -1,3 +1,5 @@
 google_file.json
-
 .env
+
+.idea/
+node_modules/
